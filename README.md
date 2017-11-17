@@ -4,6 +4,7 @@ Imagine a library which takes any JS code and generate SVG flowchart from it, wo
 
 # js2flowchart.js [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Generate%20beautiful%20flowcharts%20from%20JavaScript&url=https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart&via=bliashenko&hashtags=javascript,flowchart,svg)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) [![npm version](https://badge.fury.io/js/js2flowchart.svg)](https://badge.fury.io/js/js2flowchart)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fjs-code-to-svg-flowchart.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fjs-code-to-svg-flowchart?ref=badge_shield)
 
 js2flowchart is a tool for generating beautiful SVG flowcharts&trade; from JavaScript code.
 
@@ -557,6 +558,8 @@ Highly appreciated if you can join and help with any TODOs above. Thanks.
 ### License
 MIT license
 
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fjs-code-to-svg-flowchart.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fjs-code-to-svg-flowchart?ref=badge_large)
+
 ### Version
 First shoot! Take it easy (check version number above in NPM badge)
-
